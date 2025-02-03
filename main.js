@@ -27,8 +27,6 @@ function stoixeia (){
         console.log(number7)
         document.getElementById("zhis_div").innerHTML = (number7)
      }
- 
-
 
  }
  
